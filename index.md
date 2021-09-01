@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Prachi
+# Prachi Sacheti
 ## CS193
 ### Header 3
 
